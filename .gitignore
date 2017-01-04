@@ -1,0 +1,9 @@
+ami/
+a.out
+aws_credentials.properties
+core-site.xml
+flatfile.txt
+latest
+nodes-private
+nodes-public
+project_version
